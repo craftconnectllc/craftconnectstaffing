@@ -14,28 +14,28 @@
 
 :root {
     /* New Color Palette: Warm, Construction-Friendly */
-    --spicy-paprika: #e4572e;    /* Primary CTA, accents */
-    --canary-yellow: #f0f66e;    /* Highlights, trust signals */
-    --honeydew: #f0f8ea;         /* Light backgrounds */
-    --muted-olive: #a8c686;      /* Secondary accents */
-    --palm-leaf: #9d9c62;        /* Earthy tones */
+    --spicy-paprika: #C56A1A;    /* Primary CTA, accents */
+    --canary-yellow: #EEE82C;    /* Highlights, trust signals */
+    --honeydew: #F4F8F2;         /* Light backgrounds */
+    --muted-olive: #91CB3E;      /* Secondary accents */
+    --palm-leaf: #19381F;        /* Earthy tones */
     
     /* Functional Colors Mapped */
-    --primary-orange: #e4572e;   /* Spicy Paprika - main CTAs */
-    --primary-blue: #9d9c62;     /* Palm Leaf - replaced blue with earthy tone */
-    --accent-yellow: #f0f66e;    /* Canary Yellow - highlights */
+    --primary-orange: #C56A1A;   /* Spicy Paprika - main CTAs */
+    --primary-blue: #19381F;     /* Palm Leaf - replaced blue with earthy tone */
+    --accent-yellow: #EEE82C;    /* Canary Yellow - highlights */
     
     /* Neutrals: Industrial grays */
     --dark: #1A1A1A;
-    --charcoal: #2D3142;
-    --mid-gray: #4F5D75;
-    --light-gray: #BFC0C0;
-    --off-white: #f0f8ea;        /* Honeydew - softer than pure white */
+    --charcoal: #2E2E2E;
+    --mid-gray: #5F6F64;
+    --light-gray: #C8D0C5;
+    --off-white: #FFFFFF;        /* Honeydew - softer than pure white */
     
     /* UI States */
-    --success: #a8c686;          /* Muted Olive */
-    --warning: #f0f66e;          /* Canary Yellow */
-    --error: #e4572e;            /* Spicy Paprika */
+    --success: #91CB3E;          /* Muted Olive */
+    --warning: #EEE82C;          /* Canary Yellow */
+    --error: #C56A1A;            /* Spicy Paprika */
     
     /* Typography */
     --font-heading: 'Bitter', serif;
